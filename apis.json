@@ -1,0 +1,72 @@
+{
+    "name": "TransLoc",
+    "description": "TransLoc is the technology provider of the most flexible agency-owned microtransit solutions for delivering the ultimate rider experience.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/684-transloc-api.jpg",
+    "tags": [
+        "bus",
+        "have api",
+        "municipal",
+        "public transit",
+        "subway",
+        "train"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/transloc\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TransLoc",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/684-transloc-api.jpg",
+            "humanURL": "http:\/\/transloc.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/transloc-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/transloc"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.transloc.com\/doc\/#heading_toc_j_1"
+        },
+        {
+            "type": "Email",
+            "url": "support@transloc.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@transloc.com"
+        },
+        {
+            "type": "Email",
+            "url": "accounts@transloc.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TransLocAPI"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TransLoc"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/transloc.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/transloc.com"
+        }
+    ]
+}
